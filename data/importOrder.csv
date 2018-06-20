@@ -1,0 +1,372 @@
+Genre,Name,ListOrder
+Classical,composer,3
+Classical,baroque,3
+Classical,classicalmusic,3
+Classical,contemporary,3
+Classical,concertband,3
+Classical,choralmusic,3
+Classical,ChamberMusic,3
+Classical,EarlyMusic,3
+Classical,ElitistClassical,3
+Classical,icm,3
+Classical,Opera,3
+Classical,orchestra,3
+Electronic,acidhouse,1
+Electronic,ambientmusic,1
+Electronic,AStateOfTrance,1
+Electronic,AtmosphericDnB,1
+Electronic,BigBeat,1
+Electronic,boogiemusic,1
+Electronic,breakbeat,1
+Electronic,breakcore,1
+Electronic,brostep,1
+Electronic,chicagohouse,1
+Electronic,chillout,1
+Electronic,Chipbreak,1
+Electronic,Chiptunes,1
+Electronic,complextro,1
+Electronic,darkstep,1
+Electronic,deephouse,1
+Electronic,DnB,1
+Electronic,DubStep,1
+Electronic,EDM,1
+Electronic,electronicdancemusic,1
+Electronic,ElectronicJazz,1
+Electronic,ElectronicBlues,1
+Electronic,electrohiphop,1
+Electronic,electrohouse,1
+Electronic,electronicmagic,1
+Electronic,ElectronicMusic,1
+Electronic,electropop,1
+Electronic,electroswing,1
+Electronic,ExperimentalMusic,1
+Electronic,fidget,1
+Electronic,filth,1
+Electronic,frenchelectro,1
+Electronic,frenchhouse,1
+Electronic,funkhouse,1
+Electronic,fusiondancemusic,1
+Electronic,futurebeats,1
+Electronic,FutureFunkAirlines,1
+Electronic,FutureGarage,1
+Electronic,futuresynth,1
+Electronic,gabber,1
+Electronic,glitch,1
+Electronic,glitchop,1
+Electronic,Grime,1
+Electronic,happyhardcore,1
+Electronic,hardhouse,1
+Electronic,hardstyle,1
+Electronic,house,1
+Electronic,idm,1
+Electronic,industrialmusic,1
+Electronic,ItaloDisco,1
+Electronic,latinhouse,1
+Electronic,LiquidDubstep,1
+Electronic,mashups,1
+Electronic,melodichouse,1
+Electronic,minimal,1
+Electronic,mixes,1
+Electronic,moombahcore,1
+Electronic,nightstep,1
+Electronic,OldskoolRave,1
+Electronic,Outrun,1
+Electronic,partymusic,1
+Electronic,plunderphonics,1
+Electronic,psybient,1
+Electronic,PsyBreaks,1
+Electronic,psytrance,1
+Electronic,purplemusic,1
+Electronic,raggajungle,1
+Electronic,RealDubstep,1
+Electronic,skweee,1
+Electronic,swinghouse,1
+Electronic,tech_house,1
+Electronic,Techno,1
+Electronic,Trance,1
+Electronic,tranceandbass,1
+Electronic,trap,1
+Electronic,tribalbeats,1
+Electronic,TropicalHouse,1
+Electronic,ukfunky,1
+Electronic,witchhouse,1
+Electronic,wuuB,1
+Rock/Metal,80sHardcorePunk,2
+Rock/Metal,90sAlternative,2
+Rock/Metal,90sPunk,2
+Rock/Metal,90sRock,2
+Rock/Metal,AlternativeRock,2
+Rock/Metal,AltCountry,2
+Rock/Metal,AORMelodic,2
+Rock/Metal,ausmetal,2
+Rock/Metal,BlackMetal,2
+Rock/Metal,bluegrass,2
+Rock/Metal,Blues,2
+Rock/Metal,bluesrock,2
+Rock/Metal,Boneyard,2
+Rock/Metal,CanadianClassicRock,2
+Rock/Metal,CanadianMusic,2
+Rock/Metal,ClassicRock,2
+Rock/Metal,country,2
+Rock/Metal,Christcore,2
+Rock/Metal,crunkcore,2
+Rock/Metal,deathcore,2
+Rock/Metal,deathmetal,2
+Rock/Metal,Djent,2
+Rock/Metal,DoomMetal,2
+Rock/Metal,Drone,2
+Rock/Metal,Emo,2
+Rock/Metal,EmoScreamo,2
+Rock/Metal,epicmetal,2
+Rock/Metal,flocked,2
+Rock/Metal,folk,2
+Rock/Metal,folkmetal,2
+Rock/Metal,folkpunk,2
+Rock/Metal,folkrock,2
+Rock/Metal,folkunknown,2
+Rock/Metal,GaragePunk,2
+Rock/Metal,GothicMetal,2
+Rock/Metal,Grunge,2
+Rock/Metal,hardcore,2
+Rock/Metal,HardRock,2
+Rock/Metal,horrorpunk,2
+Rock/Metal,indie_rock,2
+Rock/Metal,jrock,2
+Rock/Metal,krautrock,2
+Rock/Metal,LadiesofMetal,2
+Rock/Metal,MathRock,2
+Rock/Metal,melodicdeathmetal,2
+Rock/Metal,MelodicMetal,2
+Rock/Metal,MetalNews,2
+Rock/Metal,Metalmusic,2
+Rock/Metal,metal,2
+Rock/Metal,metalcore,2
+Rock/Metal,ModernRockMusic,2
+Rock/Metal,monsterfuzz,2
+Rock/Metal,neopsychedelia,2
+Rock/Metal,NewWave,2
+Rock/Metal,noiserock,2
+Rock/Metal,numetal,2
+Rock/Metal,pianorock,2
+Rock/Metal,poppunkers,2
+Rock/Metal,PostHardcore,2
+Rock/Metal,PostRock,2
+Rock/Metal,powermetal,2
+Rock/Metal,powerpop,2
+Rock/Metal,ProgMetal,2
+Rock/Metal,progrockmusic,2
+Rock/Metal,PsychedelicRock,2
+Rock/Metal,punk,2
+Rock/Metal,Punkskahardcore,2
+Rock/Metal,Punk_Rock,2
+Rock/Metal,raprock,2
+Rock/Metal,Rock,2
+Rock/Metal,shoegaze,2
+Rock/Metal,stonerrock,2
+Rock/Metal,symphonicblackmetal,2
+Rock/Metal,symphonicmetal,2
+Rock/Metal,synthrock,2
+Rock/Metal,truethrash,2
+Rock/Metal,Truemetal,2
+Rock/Metal,OutlawCountry,2
+Rock/Metal,WIZARDROCK,2
+Rock/Metal,WomenRock,2
+Hip-hop,80sHipHop,4
+Hip-hop,90sHipHop,4
+Hip-hop,altrap,4
+Hip-hop,asianrap,4
+Hip-hop,backpacker,4
+Hip-hop,backspin,4
+Hip-hop,BayRap,4
+Hip-hop,ChapHop,4
+Hip-hop,DrillandBop,4
+Hip-hop,Gfunk,4
+Hip-hop,hiphopheads,4
+Hip-hop,hiphopheadsnorthwest,4
+Hip-hop,hiphop101,4
+Hip-hop,MemphisRap,4
+Hip-hop,NYrap,4
+Hip-hop,Rap,4
+Hip-hop,raprock,4
+Hip-hop,rapverses,4
+Hip-hop,rhymesandbeats,4
+Hip-hop,trapmuzik,4
+Hip-hop,ukhiphopheads,4
+Hip-hop,undergroundchicago,4
+By Decade,2010smusic,5
+By Decade,2000smusic,5
+By Decade,90sMusic,5
+By Decade,80sremixes,5
+By Decade,80sMusic,5
+By Decade,70sMusic,5
+By Decade,60sMusic,5
+By Decade,50sMusic,5
+By country/region/culture,AfricanMusic,6
+By country/region/culture,afrobeat,6
+By country/region/culture,balkanbrass,6
+By country/region/culture,balkanmusic,6
+By country/region/culture,brazilianmusic,6
+By country/region/culture,britpop,6
+By country/region/culture,CroatianMusic,6
+By country/region/culture,Flamenco,6
+By country/region/culture,Irishmusic,6
+By country/region/culture,ItalianMusic,6
+By country/region/culture,jpop,6
+By country/region/culture,KoreanRock,6
+By country/region/culture,kpop,6
+By country/region/culture,RoMusic,6
+By country/region/culture,spop,6
+By country/region/culture,somluso,6
+By country/region/culture,UKbands,6
+By country/region/culture,WorldMusic,6
+Other,70s,8
+Other,Acappella,8
+Other,AcousticCovers,8
+Other,ambientfolk,8
+Other,animemusic,8
+Other,boomswing,8
+Other,bossanova,8
+Other,carmusic,8
+Other,concerts,8
+Other,chillmusic,8
+Other,cpop,8
+Other,Complextro,8
+Other,dembow,8
+Other,disco,8
+Other,DreamPop,8
+Other,dub,8
+Other,Elephant6,8
+Other,ETIMusic,8
+Other,Exotica,8
+Other,FilmMusic,8
+Other,FunkSouMusic,8
+Other,gamemusic,8
+Other,GamesMusicMixMash,8
+Other,GunslingerMusic,8
+Other,GypsyJazz,8
+Other,IndieFolk,8
+Other,jambands,8
+Other,jazz,8
+Other,JazzFusion,8
+Other,JazzInfluence,8
+Other,listentoconcerts,8
+Other,klezmer,8
+Other,lt10k,8
+Other,MedievalMusic,8
+Other,MelancholyMusic,8
+Other,minimalism_music,8
+Other,motown,8
+Other,MusicForConcentration,8
+Other,muzyka,8
+Other,NuDisco,8
+Other,oldiemusic,8
+Other,OldiesMusic,8
+Other,pianocovers,8
+Other,popheads,8
+Other,PoptoRock,8
+Other,QuietStorm,8
+Other,rainymood,8
+Other,recordstorefinds,8
+Other,reggae,8
+Other,remixxd,8
+Other,RetroMusic,8
+Other,rnb,8
+Other,rootsmusic,8
+Other,SalsaMusic,8
+Other,Ska,8
+Other,Soca,8
+Other,songbooks,8
+Other,Soulies,8
+Other,SoulDivas,8
+Other,SoundsVintage,8
+Other,SpaceMusic,8
+Other,swing,8
+Other,Tango,8
+Other,TheRealBookVideos,8
+Other,TouhouMusic,8
+Other,TraditionalMusic,8
+Other,treemusic,8
+Other,triphop,8
+Other,vaporwave,8
+Other,VintageObscura,8
+Other,vocaloid,8
+Redditor-made music,300Songs,7
+Redditor-made music,AcousticOriginals,7
+Redditor-made music,Composer,7
+Redditor-made music,ICoveredASong,7
+Redditor-made music,independentmusic,7
+Redditor-made music,MusicCritique,7
+Redditor-made music,MusicInTheMaking,7
+Redditor-made music,MyMusic,7
+Redditor-made music,RadioReddit,7
+Redditor-made music,RoastMyTrack,7
+Redditor-made music,ratemyband,7
+Redditor-made music,Songwriters,7
+Redditor-made music,TheseAreOurAlbums,7
+Redditor-made music,ThisIsOurMusic,7
+Redditor-made music,UserProduced,7
+Redditor-made music,WereOnSpotify,7
+Redditor-made music,WhiteLabels,7
+Multi-genre,audioinsurrection,9
+Multi-genre,Albums,9
+Multi-genre,albumlisteners,9
+Multi-genre,bassheavy,9
+Multi-genre,BinauralMusic,9
+Multi-genre,BoyBands,9
+Multi-genre,Catchysongs,9
+Multi-genre,Chopping,9
+Multi-genre,CircleMusic,9
+Multi-genre,CoverSongs,9
+Multi-genre,cyberpunk_music,9
+Multi-genre,DANCEPARTY,9
+Multi-genre,danktunes,9
+Multi-genre,deepcuts,9
+Multi-genre,EarlyMusic,9
+Multi-genre,FemaleVocalists,9
+Multi-genre,FitTunes,9
+Multi-genre,freemusic,9
+Multi-genre,Frisson,9
+Multi-genre,GayMusic,9
+Multi-genre,germusic,9
+Multi-genre,gethightothis,9
+Multi-genre,GuiltyPleasureMusic,9
+Multi-genre,HeadNodders,9
+Multi-genre,heady,9
+Multi-genre,HeyThatWasIn,9
+Multi-genre,indie,9
+Multi-genre,IndieWok,9
+Multi-genre,Indieheads,9
+Multi-genre,Instrumentals,9
+Multi-genre,ipm,9
+Multi-genre,LeeHallMusic,9
+Multi-genre,listentoconcerts,9
+Multi-genre,listentomusic,9
+Multi-genre,ListenToThis,9
+Multi-genre,ListenToUs,9
+Multi-genre,livemusic,9
+Multi-genre,llawenyddhebddiwedd,9
+Multi-genre,LongerJams,9
+Multi-genre,mainstreammusic,9
+Multi-genre,MiddleEasternMusic,9
+Multi-genre,MLPtunes,9
+Multi-genre,Music,9
+Multi-genre,MusicAlbums,9
+Multi-genre,musicanova,9
+Multi-genre,musicsuggestions,9
+Multi-genre,MusicToSleepTo,9
+Multi-genre,musicvideos,9
+Multi-genre,NewAlbums,9
+Multi-genre,newmusic,9
+Multi-genre,onealbumaweek,9
+Multi-genre,partymusic,9
+Multi-genre,RedditOriginals,9
+Multi-genre,RepublicOfMusic,9
+Multi-genre,RoyaltyFreeMusic,9
+Multi-genre,runningmusic,9
+Multi-genre,ScottishMusic,9
+Multi-genre,SlavicMusicVideos,9
+Multi-genre,theunheard,9
+Multi-genre,TodaysFavoriteSongs,9
+Multi-genre,unheardof,9
+Multi-genre,WhatIListenTo,9
+Multi-genre,WTFMusicVideos,9
